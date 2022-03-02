@@ -1,6 +1,6 @@
 # Umbrella FrameWork
 
-Download a base for begin a new project based on Umbrella Wireframe
+Download a base for begin a new project based on Umbrella Framework
 
 ## MVC Model
 
@@ -8,7 +8,7 @@ Works with MVC PHP Concept
 
 ## Dependencies
 
-To make the wireframe work, you have to install some dependencies, which are Composer, AltoRouter, Alto Dispatcher. 
+To make the framework works, you have to install some dependencies, which are Composer, AltoRouter, Alto Dispatcher. 
 And I always recommand Var Dumper to make Dumps more complete, and Dump and Die for an easier debug.
 
 ***Steps*** *All these commands in a shell on the root of your project*
